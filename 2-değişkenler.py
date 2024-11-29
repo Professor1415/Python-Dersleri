@@ -7,4 +7,3 @@ sayi1=10
 sayi2=20
 
 print(sayi1+sayi2)
-
